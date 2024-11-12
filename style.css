@@ -12,7 +12,7 @@
 html {
   font-size: 62.5%;
   /* 1rem = 10px  */
-  /* scroll-behavior: smooth; */
+  scroll-behavior: smooth;
   scroll-snap-type: Y proximity;
   background-image: linear-gradient(to bottom right, #000000, #a5aaa9);
   scroll-behavior: smooth;
